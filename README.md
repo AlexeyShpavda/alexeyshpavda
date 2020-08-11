@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
 
-About me
+## I'm a beginner Youtuber and Software Engeneer
 
 Latest YouTube Videos
 
