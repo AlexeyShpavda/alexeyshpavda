@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Оформляем профиль на GitHub с помощью Profile Readme](https://www.youtube.com/watch?v=1yELlB39TvY)
 - [Flutter уроки для начинающих #34 - Stateful виджеты](https://www.youtube.com/watch?v=7aBNm8xNSKM)
 - [Flutter уроки для начинающих #33 - Реструктуризация / Flutter Outline](https://www.youtube.com/watch?v=I2UgI1UokC0)
 - [Flutter уроки для начинающих #32 - Виджет ListTile](https://www.youtube.com/watch?v=jLt_dy5_q6k)
 - [Flutter уроки для начинающих #31 - Виджет Card](https://www.youtube.com/watch?v=OQpXnJWF004)
-- [Flutter уроки для начинающих #30 - Создаем Event class](https://www.youtube.com/watch?v=fP8MAm_9qoY)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
