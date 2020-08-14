@@ -4,7 +4,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Оформляем профиль на GitHub 2020 с помощью Profile Readme](https://www.youtube.com/watch?v=1yELlB39TvY)
+- [Оформляем профиль на GitHub в 2020 с помощью Profile Readme](https://www.youtube.com/watch?v=1yELlB39TvY)
 - [Flutter уроки для начинающих #34 - Stateful виджеты](https://www.youtube.com/watch?v=7aBNm8xNSKM)
 - [Flutter уроки для начинающих #33 - Реструктуризация / Flutter Outline](https://www.youtube.com/watch?v=I2UgI1UokC0)
 - [Flutter уроки для начинающих #32 - Виджет ListTile](https://www.youtube.com/watch?v=jLt_dy5_q6k)
