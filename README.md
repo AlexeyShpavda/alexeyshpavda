@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dart уроки для начинающих #3 - Синтаксис / Комментарии](https://www.youtube.com/watch?v=Y8lI0D3O1Ug)
 - [Dart уроки для начинающих #2 - Как установить Dart / Структура проекта](https://www.youtube.com/watch?v=AKiusEzLM7o)
 - [Dart уроки для начинающих #1 - Введение](https://www.youtube.com/watch?v=XIqDW4odEsM)
 - [Оформляем профиль на GitHub в 2020 с помощью Profile Readme](https://www.youtube.com/watch?v=1yELlB39TvY)
 - [Flutter уроки для начинающих #34 - Stateful виджеты](https://www.youtube.com/watch?v=7aBNm8xNSKM)
-- [Flutter уроки для начинающих #33 - Реструктуризация / Flutter Outline](https://www.youtube.com/watch?v=I2UgI1UokC0)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
