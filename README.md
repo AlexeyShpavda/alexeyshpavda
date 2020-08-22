@@ -2,16 +2,11 @@
 
 ## I'm a beginner Youtuber and Software Engeneer
 
-### Latest YouTube Videos
+### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [Dart уроки для начинающих #4 - Переменные и типы данных](https://www.youtube.com/watch?v=D-bNr_pvop8)
-- [Dart уроки для начинающих #3 - Синтаксис / Комментарии](https://www.youtube.com/watch?v=Y8lI0D3O1Ug)
-- [Dart уроки для начинающих #2 - Как установить Dart / Структура проекта](https://www.youtube.com/watch?v=AKiusEzLM7o)
-- [Dart уроки для начинающих #1 - Введение](https://www.youtube.com/watch?v=XIqDW4odEsM)
-- [Оформляем профиль на GitHub в 2020 с помощью Profile Readme](https://www.youtube.com/watch?v=1yELlB39TvY)
 <!-- YOUTUBE:END -->
 
-### Languages and Tools
+### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
@@ -21,7 +16,7 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
-### Follow Me
+### Follow Me:
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/shpavda)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
