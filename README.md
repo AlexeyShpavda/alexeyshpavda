@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Dart уроки для начинающих #5 - final vs const](https://www.youtube.com/watch?v=Su8V0tpwW9I)
 - [Dart уроки для начинающих #4 - Переменные и типы данных](https://www.youtube.com/watch?v=D-bNr_pvop8)
 - [Dart уроки для начинающих #3 - Синтаксис / Комментарии](https://www.youtube.com/watch?v=Y8lI0D3O1Ug)
 - [Dart уроки для начинающих #2 - Как установить Dart / Структура проекта](https://www.youtube.com/watch?v=AKiusEzLM7o)
 - [Dart уроки для начинающих #1 - Введение](https://www.youtube.com/watch?v=XIqDW4odEsM)
-- [Оформляем профиль на GitHub в 2020 с помощью Profile Readme](https://www.youtube.com/watch?v=1yELlB39TvY)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
