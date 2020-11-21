@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Dart уроки для начинающих #13 - Функции](https://www.youtube.com/watch?v=_k9Xu61XlVE)
 - [Как опубликовать Flutter приложение в Google Play](https://www.youtube.com/watch?v=vgPup1IJ5NQ)
 - [Dart уроки для начинающих #12 - Циклы (for in, for, while, do while)](https://www.youtube.com/watch?v=DUqG-OjhEfg)
 - [Dart уроки для начинающих #11 - Условные конструкции (if, else, switch, case)](https://www.youtube.com/watch?v=FdG2AeabFvw)
 - [Dart уроки для начинающих #10 - Коллекции (List, Set, Map)](https://www.youtube.com/watch?v=eOsoucMMAqA)
-- [ТОП-10 плагинов VS Code для Flutter разработчика](https://www.youtube.com/watch?v=mc3hQvTCkxc)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
