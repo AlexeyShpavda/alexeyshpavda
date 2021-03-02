@@ -4,11 +4,11 @@
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Dart уроки для начинающих #15 - ООП: Классы и объекты](https://www.youtube.com/watch?v=HJ090EowqI0)
 - [Dart уроки для начинающих #14 - typedef](https://www.youtube.com/watch?v=OVHnhjZzGWA)
 - [Dart уроки для начинающих #13 - Функции](https://www.youtube.com/watch?v=_k9Xu61XlVE)
 - [Как опубликовать Flutter приложение в Google Play](https://www.youtube.com/watch?v=vgPup1IJ5NQ)
 - [Dart уроки для начинающих #12 - Циклы (for in, for, while, do while)](https://www.youtube.com/watch?v=DUqG-OjhEfg)
-- [Dart уроки для начинающих #11 - Условные конструкции (if, else, switch, case)](https://www.youtube.com/watch?v=FdG2AeabFvw)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
