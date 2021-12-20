@@ -3,7 +3,7 @@
 ## Content/Apps/Games Creator
 
 <a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="190"/>
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="180"/>
 </a>
 
 ### Latest YouTube Videos:
