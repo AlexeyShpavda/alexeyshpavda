@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
 
-## I'm a beginner Youtuber and Software Engineer
+## Content/Apps/Games Creator
 
 <a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="190"/>
