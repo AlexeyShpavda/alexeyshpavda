@@ -2,6 +2,10 @@
 
 ## I'm a beginner Youtuber and Software Engineer
 
+<a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="190"/>
+</a>
+
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
 - [Dart уроки для начинающих #16 - ООП: Видимость. Getters / Setters](https://www.youtube.com/watch?v=4lM0Uuh31vE)
