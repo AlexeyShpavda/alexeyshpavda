@@ -3,10 +3,13 @@
 ## Content/Apps/Games Creator
 
 <a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="TheUnlimited" width="180"/>
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 </a>
 <a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="180"/>
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
+</a>
+<a href="https://www.apple.com/app-store" target="_blank">
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
 
 ### Latest YouTube Videos:
