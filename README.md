@@ -14,11 +14,11 @@
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Локализация приложения на Flutter за 5 минут используя пакет easy_localization](https://www.youtube.com/watch?v=GLR2TW64V6A)
 - [Dart уроки для начинающих #16 - ООП: Видимость. Getters / Setters](https://www.youtube.com/watch?v=4lM0Uuh31vE)
 - [Dart уроки для начинающих #15 - ООП: Классы и объекты](https://www.youtube.com/watch?v=HJ090EowqI0)
 - [Dart уроки для начинающих #14 - typedef](https://www.youtube.com/watch?v=OVHnhjZzGWA)
 - [Dart уроки для начинающих #13 - Функции](https://www.youtube.com/watch?v=_k9Xu61XlVE)
-- [Как опубликовать Flutter приложение в Google Play](https://www.youtube.com/watch?v=vgPup1IJ5NQ)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
