@@ -14,11 +14,11 @@
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Навигация между экранами во Flutter. Navigator push/pop](https://www.youtube.com/watch?v=mY8Ij5nM_Kk)
 - [Как переключить фокус с одного текстового поля на другое во Flutter](https://www.youtube.com/watch?v=yTj5zD9g_RY)
 - [Как сохранять и получать объекты используя Flutter Shared Preferences](https://www.youtube.com/watch?v=HKwzU6Owxjs)
 - [Flutter Shared Preferences за 5 минут. Как сохранять и получать данные из локального хранилища.](https://www.youtube.com/watch?v=Y4moxaiDoEg)
 - [Локализация приложения на Flutter за 5 минут используя пакет easy_localization](https://www.youtube.com/watch?v=GLR2TW64V6A)
-- [Dart уроки для начинающих #16 - ООП: Видимость. Getters / Setters](https://www.youtube.com/watch?v=4lM0Uuh31vE)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
