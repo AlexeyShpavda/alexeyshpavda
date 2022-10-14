@@ -8,7 +8,7 @@
 <a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
 </a>
-<a href="https://www.apple.com/app-store" target="_blank">
+<a href="https://apps.apple.com/developer/aliaksei-shpauda/id1648889980" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
 
