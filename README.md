@@ -2,6 +2,7 @@
 
 ### 🌐 On the way to creating a world-famous company.<br>🚀 Building Tomorrow's Mobile Experiences Today.
 
+## Platforms:
 <a href="https://the-unl.com" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 </a>
@@ -12,7 +13,7 @@
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
 
-### Socials:
+## Social Media:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
