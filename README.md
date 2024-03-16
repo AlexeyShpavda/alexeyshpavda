@@ -3,6 +3,8 @@
 ### 🌐 On the way to creating a world-famous company.<br>🚀 Building Tomorrow's Mobile Experiences Today.
 
 ## Platforms:
+Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
+
 <a href="https://apps.apple.com/developer/aliaksei-shpauda/id1648889980" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
@@ -14,6 +16,8 @@
 </a>
 
 ## Social Media:
+Be one of the first to join our growing community and transform your everyday life.
+
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alexeyshpavda)
