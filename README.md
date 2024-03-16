@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
 
-## Content/Apps/Games Creator
+### 🌐 On the way to creating a world-famous company.<br>🚀 Building Tomorrow's Mobile Experiences Today.
 
 <a href="https://the-unl.com" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
