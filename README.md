@@ -12,15 +12,6 @@
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
 
-### Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как передать данные именованному маршруту во Flutter](https://www.youtube.com/watch?v=gL8DQKQx6Yo)
-- [Навигация во Flutter с использованием именованных маршрутов](https://www.youtube.com/watch?v=4GMW0yphxN4)
-- [Как передавать данные между экранами во Flutter](https://www.youtube.com/watch?v=7CluiX90w7Q)
-- [Навигация между экранами во Flutter. Navigator push/pop](https://www.youtube.com/watch?v=mY8Ij5nM_Kk)
-- [Как переключить фокус с одного текстового поля на другое во Flutter](https://www.youtube.com/watch?v=yTj5zD9g_RY)
-<!-- YOUTUBE:END -->
-
 ### Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
