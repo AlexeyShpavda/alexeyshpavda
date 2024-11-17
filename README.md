@@ -2,7 +2,7 @@
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
-### Platforms:
+## Platforms:
 Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
 
 <a href="https://apps.apple.com/developer/aliaksei-shpauda/id1648889980" target="_blank">
@@ -15,7 +15,7 @@ Our team leverages the latest technologies to create seamless, high-performance 
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 </a>
 
-### Social Media:
+## Social Media:
 Be one of the first to join our growing community and transform your everyday life.
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
