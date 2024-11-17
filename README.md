@@ -1,7 +1,7 @@
 [![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
 
-### 🎯 CEO of Shpavda LLP<br>
-### 🌍 Growing Company Toward Global Recognition<br>
+### 🎯 CEO of Shpavda LLP
+### 🌍 Growing Company Toward Global Recognition
 ### 🚀 Building Tomorrow's Mobile Experiences Today
 
 ### Platforms:
