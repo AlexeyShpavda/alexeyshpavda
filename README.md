@@ -5,10 +5,10 @@
 ## Platforms:
 Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
 
-<a href="https://apps.apple.com/developer/aliaksei-shpauda/id1648889980" target="_blank">
+<a href="https://apps.apple.com/developer/shpavda-too/id1779139180" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
-<a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
+<a href="https://play.google.com/store/apps/dev?id=7087733035635027601" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
 </a>
 <a href="https://the-unl.com" target="_blank">
